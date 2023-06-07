@@ -7,7 +7,7 @@
 First, clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/gofunclist.git
+git clone https://github.com/unixfile/gofunclist.git
 cd gofunclist
 ```
 
