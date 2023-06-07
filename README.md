@@ -14,7 +14,7 @@ cd gofunclist
 Next, build the tool:
 
 ```sh
-go build -o gofunclist main.go
+go build main.go
 ```
 
 Then, place the tool in your $PATH.
