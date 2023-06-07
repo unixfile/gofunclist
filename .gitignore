@@ -1,0 +1,14 @@
+# .gitignore for Go projects
+
+# Binaries
+/bin/
+
+# Dependency directories
+/vendor/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
