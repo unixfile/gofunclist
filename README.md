@@ -33,5 +33,8 @@ The tool will print a list of all function signatures defined in the package, in
 func ((receiver type)) FunctionName(arg type) (return type)
 ```
 
+## License
+[MIT](license.md)
+
 ## Thanks to ChatGPT
 This tool was created with the help of ChatGPT. The creation process is saved [here](chat.md).
