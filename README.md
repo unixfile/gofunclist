@@ -38,3 +38,5 @@ func ((receiver type)) FunctionName(arg type) (return type)
 
 ## Thanks to ChatGPT
 This tool was created with the help of ChatGPT. The creation process is saved [here](chat.md).
+
+Update, sharing now possible. Click [here](https://chat.openai.com/share/adc1e309-4694-43dc-aefe-32faa550a7de)
